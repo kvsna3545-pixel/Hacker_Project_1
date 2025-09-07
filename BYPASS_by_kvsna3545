@@ -133,7 +133,7 @@ trajectory.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 trajectory.BackgroundTransparency = 1.000
 trajectory.Position = UDim2.new(0.45430705, 0, 0.430432826, 0)
 trajectory.Size = UDim2.new(0, 110, 0, 110)
-trajectory.Image = "http://www.roblox.com/asset/?id=7102118272"
+trajectory.Image = "http://www.roblox.com/asset/?id=110879576807728"
 trajectory.SliceScale = 3.000
 
 R.Name = "R"
