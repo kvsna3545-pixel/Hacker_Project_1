@@ -245,7 +245,7 @@ Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/84BkeFSm"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/BYPASS_by_kvsna3545"))()
 end)
 
 
