@@ -18,7 +18,7 @@ ImageLabel.Size = UDim2.new(0.9, 37, 0.9, 28)
 ImageLabel.Position = UDim2.new(0.0, 0, 0.0, 0)
 ImageLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 ImageLabel.ImageColor3 = Color3.new(1, 1, 1)
-ImageLabel.Image = "rbxassetid://103361828410074"
+ImageLabel.Image = "rbxassetid://110541718437050"
 ImageLabel.ImageTransparency = 0.4
 ImageLabel.Parent = Ui
 
@@ -389,7 +389,7 @@ Earth.BorderSizePixel = 0
 Earth.Position = UDim2.new(0.404999346, 0, 0.406818181, 0)
 Earth.Size = UDim2.new(0, 20, 0, 20)
 Earth.ZIndex = 4
-Earth.Image = "rbxassetid://78137783929126"
+Earth.Image = "rbxassetid://103361828410074"
 
 Green.Name = "Green"
 Green.Parent = StigmanFroud
