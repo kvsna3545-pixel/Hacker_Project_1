@@ -389,7 +389,7 @@ Earth.BorderSizePixel = 0
 Earth.Position = UDim2.new(0.404999346, 0, 0.406818181, 0)
 Earth.Size = UDim2.new(0, 20, 0, 20)
 Earth.ZIndex = 4
-Earth.Image = "rbxassetid://103361828410074"
+Earth.Image = "rbxassetid://110541718437050"
 
 Green.Name = "Green"
 Green.Parent = StigmanFroud
@@ -400,7 +400,7 @@ Green.BorderSizePixel = 0
 Green.Position = UDim2.new(0.00499999989, 0, 0.824999988, 0)
 Green.Size = UDim2.new(0, 110, 0, 110)
 Green.ZIndex = 6
-Green.Image = "rbxassetid://111622905718250"
+Green.Image = "rbxassetid://103361828410074"
 Green.ImageTransparency = 1.000
 
 -- Animation for trajectory (rotating)
