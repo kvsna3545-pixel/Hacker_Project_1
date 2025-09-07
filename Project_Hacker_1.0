@@ -270,6 +270,38 @@ Mrbean.Position = UDim2.new(0.0, 0, 0.0, 0)
 Mrbean.BackgroundColor3 = Color3.new(1, 1, 1)
 Mrbean.BorderColor3 = Color3.new(0, 0, 0)
 Mrbean.BorderSizePixel = 0
+Mrbean.Text = "FLY V2 by kvsna3545"
+Mrbean.BackgroundTransparency = 0.5
+Mrbean.TextColor3 = Color3.new(0, 0, 0)
+Mrbean.Font = Enum.Font.Montserrat
+Mrbean.Parent = Scr
+Mrbean.TextSize = 19
+Mrbean.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Fly/refs/heads/main/V2"))()
+end)
+
+local Mrbean = Instance.new("TextButton")
+Mrbean.Size = UDim2.new(0.9, 39, 0.0, 29)
+Mrbean.Position = UDim2.new(0.0, 0, 0.0, 0)
+Mrbean.BackgroundColor3 = Color3.new(1, 1, 1)
+Mrbean.BorderColor3 = Color3.new(0, 0, 0)
+Mrbean.BorderSizePixel = 0
+Mrbean.Text = "KNIFE V4"
+Mrbean.BackgroundTransparency = 0.5
+Mrbean.TextColor3 = Color3.new(0, 0, 0)
+Mrbean.Font = Enum.Font.Montserrat
+Mrbean.Parent = Scr
+Mrbean.TextSize = 19
+Mrbean.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Grab-knife-v4-24753"))()
+end)
+
+local Mrbean = Instance.new("TextButton")
+Mrbean.Size = UDim2.new(0.9, 39, 0.0, 29)
+Mrbean.Position = UDim2.new(0.0, 0, 0.0, 0)
+Mrbean.BackgroundColor3 = Color3.new(1, 1, 1)
+Mrbean.BorderColor3 = Color3.new(0, 0, 0)
+Mrbean.BorderSizePixel = 0
 Mrbean.Text = "FLY V3 BY KVSNA3545"
 Mrbean.BackgroundTransparency = 0.5
 Mrbean.TextColor3 = Color3.new(0, 0, 0)
