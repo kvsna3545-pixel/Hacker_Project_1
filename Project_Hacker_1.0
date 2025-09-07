@@ -368,7 +368,7 @@ trajectory.BackgroundTransparency = 1.000
 trajectory.Position = UDim2.new(0.45430705, 0, 0.430432826, 0)
 trajectory.Size = UDim2.new(0, 110, 0, 110)
 trajectory.Image = "http://www.roblox.com/asset/?id=7102118272"
-trajectory.SliceScale = 3.000
+trajectory.SliceScale = 4.000
 
 R.Name = "R"
 R.Parent = StigmanFroud
@@ -377,7 +377,7 @@ R.BackgroundTransparency = 1.000
 R.Position = UDim2.new(0.45430705, 0, 0.430432826, 0)
 R.Size = UDim2.new(0, 110, 0, 110)
 R.ZIndex = 3
-R.Image = "http://www.roblox.com/asset/?id="
+R.Image = "http://www.roblox.com/asset/?id=0"
 R.SliceScale = 3.000
 
 Earth.Name = "Earth"
@@ -400,7 +400,7 @@ Green.BorderSizePixel = 0
 Green.Position = UDim2.new(0.00499999989, 0, 0.824999988, 0)
 Green.Size = UDim2.new(0, 110, 0, 110)
 Green.ZIndex = 6
-Green.Image = "rbxassetid://"
+Green.Image = "rbxassetid://0"
 Green.ImageTransparency = 1.000
 
 -- Animation for trajectory (rotating)
