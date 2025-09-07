@@ -389,7 +389,7 @@ Earth.BorderSizePixel = 0
 Earth.Position = UDim2.new(0.404999346, 0, 0.406818181, 0)
 Earth.Size = UDim2.new(0, 20, 0, 20)
 Earth.ZIndex = 4
-Earth.Image = "rbxassetid://110541718437050"
+Earth.Image = "rbxassetid://"
 
 Green.Name = "Green"
 Green.Parent = StigmanFroud
