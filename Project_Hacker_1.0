@@ -1,5 +1,5 @@
 local gui = Instance.new("ScreenGui")
-gui.Name = "project 0.1"
+gui.Name = "project 0.5"
 gui.Parent = game.CoreGui
 
 local Ui = Instance.new("Frame")
