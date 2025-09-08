@@ -302,7 +302,7 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 365)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "FE BYPASS by kvsna3545"
+Infinite.Text = "HACKING"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
@@ -311,6 +311,7 @@ Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/SKY",true))()
 end)
+
 
 local She = Instance.new("TextButton")
 
