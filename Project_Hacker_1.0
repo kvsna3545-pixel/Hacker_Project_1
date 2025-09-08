@@ -296,6 +296,7 @@ Infinite.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://pastefy.app/M0r9UCNQ/raw",true))()
 end)
 
+
 local She = Instance.new("TextButton")
 
 local R6 = Instance.new("TextButton")
