@@ -325,7 +325,7 @@ Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:GetObjects("rbxasset://16920033857")(1).Source)()
+loadstring(game:HttpGet("https://pastebin.com/raw/daUFwz29"))()
 end)
 
 local Infinite = Instance.new("TextButton")
