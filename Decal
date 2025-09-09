@@ -1,0 +1,11 @@
+local textureId = "rbxassetid://110541718437050"
+local function applyTexture(part)
+    if part:IsA("BasePart") then
+        for _, face in pairs(Enum.NormalId:GetEnumItems()) do
+            local decal = Instance.new("Decal")
+            decal.Face = face
+            decal.Texture = textureId
+            decal.Parent = part
+        end
+    end
+end
