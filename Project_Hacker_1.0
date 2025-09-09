@@ -344,7 +344,7 @@ Infinite.MouseButton1Click:Connect(function()
 
 local Infinite = Instance.new("TextButton")
 Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
-Infinite.Position = UDim2.new(0.0, 0, 0.0, 230)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 456)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
@@ -360,7 +360,7 @@ end)
 
 local Infinite = Instance.new("TextButton")
 Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
-Infinite.Position = UDim2.new(0.0, 0, 0.0, 230)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 499)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
