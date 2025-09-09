@@ -341,6 +341,7 @@ Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
+loadstring(game:GetObjects("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/Sky))()
 
 local Infinite = Instance.new("TextButton")
 Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
