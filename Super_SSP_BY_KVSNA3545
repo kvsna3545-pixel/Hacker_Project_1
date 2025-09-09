@@ -6,7 +6,7 @@ gui.ResetOnSpawn = false
 local Topbar = Instance.new("Frame")
 Topbar.Size = UDim2.new(0.0, 499, 0.0, 20)
 Topbar.Position = UDim2.new(0.0, 0, 0.0, 0)
-Topbar.BackgroundColor3 = Color3.new(0.2, 0.2, 0.2, 0)
+Topbar.BackgroundColor3 = Color3.new(254, 254, 254, 0)
 Topbar.BorderColor3 = Color3.new(0, 0, 0)
 Topbar.BorderSizePixel = 0
 Topbar.Active = true
@@ -17,12 +17,12 @@ Topbar.Parent = gui
 local Secret = Instance.new("TextLabel")
 Secret.Size = UDim2.new(0.3, -39, 0.9, 2)
 Secret.Position = UDim2.new(0.3, 0, 0.0, 0)
-Secret.BackgroundColor3 = Color3.new(0, 0, 0)
+Secret.BackgroundColor3 = Color3.new(255, 255, 255)
 Secret.BorderColor3 = Color3.new(0, 0, 0)
 Secret.BorderSizePixel = 0
 Secret.Text = "Super Secret Service Panel by kvsna3545"
 Secret.BackgroundTransparency = 1
-Secret.TextColor3 = Color3.new(255, 255, 255)
+Secret.TextColor3 = Color3.new(0, 0, 0)
 Secret.TextSize = 8
 Secret.Parent = Topbar
 
@@ -801,21 +801,6 @@ R6.TextSize = 12
 R6.Parent = UiPlayer
 R6.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TEST19983/Realrhejrj/refs/heads/main/Refjf"))()
-end)
-
-local R6 = Instance.new("TextButton")
-R6.Size = UDim2.new(0.3, -15, 0.0, 29)
-R6.Position = UDim2.new(0.3, 30,  0.0, 252)
-R6.BackgroundColor3 = Color3.new(0.3, 0.3, 0.3, 0)
-R6.BorderColor3 = Color3.new(0, 0, 0)
-R6.BorderSizePixel = 0
-R6.Text = "HACK BY KVSNA3545"
-R6.BackgroundTransparency = 0 
-R6.TextColor3 = Color3.new(255, 255, 255)
-R6.TextSize = 12
-R6.Parent = UiPlayer
-R6.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/SKY"))()
 end)
 
 local Rww = Instance.new("ImageLabel")
