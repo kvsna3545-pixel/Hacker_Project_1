@@ -362,7 +362,7 @@ end)
 
 local Infinite = Instance.new("TextButton")
 Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
-Infinite.Position = UDim2.new(0.0, 0, 0.0, 230)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 530)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
@@ -494,7 +494,7 @@ trajectory.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 trajectory.BackgroundTransparency = 1.000
 trajectory.Position = UDim2.new(0.45430705, 0, 0.430432826, 0)
 trajectory.Size = UDim2.new(0, 110, 0, 110)
-trajectory.Image = "http://www.roblox.com/asset/?id=7102118272"
+trajectory.Image = "http://www.roblox.com/asset/?id=128563353837924"
 trajectory.SliceScale = 3.000
 
 R.Name = "R"
