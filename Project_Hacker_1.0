@@ -14,7 +14,7 @@ Ui.Draggable = true
 Ui.Parent = gui
 
 local ImageLabel = Instance.new("ImageLabel")
-ImageLabel.Size = UDim2.new(0.9, 37, 0.9, 28)
+ImageLabel.Size = UDim2.new(0.9, 35, 0.9, 29)
 ImageLabel.Position = UDim2.new(0.0, 0, 0.0, 0)
 ImageLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 ImageLabel.ImageColor3 = Color3.new(1, 1, 1)
