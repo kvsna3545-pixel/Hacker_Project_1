@@ -3,7 +3,7 @@ gui.Name = "super update :0"
 gui.Parent = game.CoreGui
 
 local Ui = Instance.new("Frame")
-Ui.Size = UDim2.new(0.0, 450, 0.0, 300)
+Ui.Size = UDim2.new(0.0, 400, 0.0, 366)
 Ui.Position = UDim2.new(0.2, 89, 0.0, - 24)
 Ui.BackgroundColor3 = Color3.new(1, 1, 1)
 Ui.BorderColor3 = Color3.new(0, 0, 0)
