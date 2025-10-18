@@ -1,5 +1,5 @@
 local gui = Instance.new("ScreenGui")
-gui.Name = "super update :0"
+gui.Name = "super update"
 gui.Parent = game.CoreGui
 
 local Ui = Instance.new("Frame")
