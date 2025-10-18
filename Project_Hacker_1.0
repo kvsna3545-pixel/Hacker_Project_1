@@ -302,14 +302,14 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 365)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "HACKING"
+Infinite.Text = "project http hack"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/SKY",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Project-http/refs/heads/main/hacking.lua",true))()
 end)
 
 local Infinite = Instance.new("TextButton")
@@ -366,14 +366,14 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 530)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "KNIFE V4"
+Infinite.Text = "Primadon"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Prison-Life-Grab-knife-v4-Kill-aura-10686"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/37iQzQp3"))()
 end)
 
 local Infinite = Instance.new("TextButton")
@@ -390,38 +390,6 @@ Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-1x-1x-1x-1x-1xSuper-private-gui-V5dot40-leak-by-me-36518"))()
-end)
-
-local Infinite = Instance.new("TextButton")
-Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
-Infinite.Position = UDim2.new(0.0, 0, 0.0, 599)
-Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
-Infinite.BorderColor3 = Color3.new(0, 0, 0)
-Infinite.BorderSizePixel = 0
-Infinite.Text = "Primadon"
-Infinite.BackgroundTransparency = 0.5
-Infinite.TextColor3 = Color3.new(0, 0, 0)
-Infinite.Font = Enum.Font.Montserrat
-Infinite.Parent = Scr
-Infinite.TextSize = 19
-Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/37iQzQp3"))()"))()
-end)
-
-local Infinite = Instance.new("TextButton")
-Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
-Infinite.Position = UDim2.new(0.0, 0, 0.0, 630)
-Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
-Infinite.BorderColor3 = Color3.new(0, 0, 0)
-Infinite.BorderSizePixel = 0
-Infinite.Text = "Thank you Project"
-Infinite.BackgroundTransparency = 0.5
-Infinite.TextColor3 = Color3.new(0, 0, 0)
-Infinite.Font = Enum.Font.Montserrat
-Infinite.Parent = Scr
-Infinite.TextSize = 19
-Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Thank-you-project/refs/heads/main/Main.lua"))()
 end)
 
 
