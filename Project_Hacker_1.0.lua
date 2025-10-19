@@ -334,14 +334,14 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 456)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "sky"
+Infinite.Text = "Thank you Project"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Hacker_Project_1/refs/heads/main/Sky"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/Thank-you-project/refs/heads/main/Main.lua"))()
 end)
 
 local Infinite = Instance.new("TextButton")
@@ -430,16 +430,47 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 656)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "SOON!!!!"
+Infinite.Text = "Ss by kvsna3545"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kvsna3545-pixel/SS-script-team-kvsna3545/refs/heads/main/Mainn.lua"))()
 end)
 
+local Infinite = Instance.new("TextButton")
+Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 699)
+Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
+Infinite.BorderColor3 = Color3.new(0, 0, 0)
+Infinite.BorderSizePixel = 0
+Infinite.Text = "console"
+Infinite.BackgroundTransparency = 0.5
+Infinite.TextColor3 = Color3.new(0, 0, 0)
+Infinite.Font = Enum.Font.Montserrat
+Infinite.Parent = Scr
+Infinite.TextSize = 19
+Infinite.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet("https://pastefy.app/V1Q5iwiJ/raw"))()
+end)
+
+local Infinite = Instance.new("TextButton")
+Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 730)
+Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
+Infinite.BorderColor3 = Color3.new(0, 0, 0)
+Infinite.BorderSizePixel = 0
+Infinite.Text = "Soon"
+Infinite.BackgroundTransparency = 0.5
+Infinite.TextColor3 = Color3.new(0, 0, 0)
+Infinite.Font = Enum.Font.Montserrat
+Infinite.Parent = Scr
+Infinite.TextSize = 19
+Infinite.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet(""))()
+end)
 
 local She = Instance.new("TextButton")
 
