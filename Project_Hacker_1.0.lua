@@ -113,9 +113,9 @@ Scr.Size = UDim2.new(0.9, 29, 0.7, 6)
 Scr.Position = UDim2.new(0.0, 4, 0.1, 9)
 Scr.BackgroundColor3 = Color3.new(1, 1, 1)
 Scr.BorderColor3 = Color3.new(0, 0, 0)
-Scr.BorderSizePixel = 0
+Scr.BorderSizePixel = 1
 Scr.Parent = Ui
-Scr.ScrollBarThickness = -1
+Scr.ScrollBarThickness = 0
 Scr.Visible = false
 
 Scr.BackgroundTransparency = 2
