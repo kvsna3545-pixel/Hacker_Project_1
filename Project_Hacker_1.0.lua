@@ -115,7 +115,7 @@ Scr.BackgroundColor3 = Color3.new(1, 1, 1)
 Scr.BorderColor3 = Color3.new(0, 0, 0)
 Scr.BorderSizePixel = 0
 Scr.Parent = Ui
-Scr.ScrollBarThickness = 0
+Scr.ScrollBarThickness = 1
 Scr.Visible = false
 
 Scr.BackgroundTransparency = 2
@@ -516,7 +516,7 @@ ygcw.Position = UDim2.new(0.1, 47, 0.7, 50)
 ygcw.BackgroundColor3 = Color3.new(1, 1, 1)
 ygcw.BorderColor3 = Color3.new(0, 0, 0)
 ygcw.BorderSizePixel = 0
-ygcw.Text = "Require"
+ygcw.Text = "♡"
 ygcw.BackgroundTransparency = 0.5
 ygcw.TextColor3 = Color3.new(0, 0, 0)
 ygcw.Font = Enum.Font.Montserrat
