@@ -392,6 +392,54 @@ Infinite.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-1x-1x-1x-1x-1xSuper-private-gui-V5dot40-leak-by-me-36518"))()
 end)
 
+local Infinite = Instance.new("TextButton")
+Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 599)
+Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
+Infinite.BorderColor3 = Color3.new(0, 0, 0)
+Infinite.BorderSizePixel = 0
+Infinite.Text = "Ss by Soulhack62"
+Infinite.BackgroundTransparency = 0.5
+Infinite.TextColor3 = Color3.new(0, 0, 0)
+Infinite.Font = Enum.Font.Montserrat
+Infinite.Parent = Scr
+Infinite.TextSize = 19
+Infinite.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet("https://pastefy.app/2OWyTovg/raw"))()
+end)
+
+local Infinite = Instance.new("TextButton")
+Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 630)
+Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
+Infinite.BorderColor3 = Color3.new(0, 0, 0)
+Infinite.BorderSizePixel = 0
+Infinite.Text = "WQS_HAX7L8"
+Infinite.BackgroundTransparency = 0.5
+Infinite.TextColor3 = Color3.new(0, 0, 0)
+Infinite.Font = Enum.Font.Montserrat
+Infinite.Parent = Scr
+Infinite.TextSize = 19
+Infinite.MouseButton1Click:Connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/8Dq9i6we"))()
+end)
+
+local Infinite = Instance.new("TextButton")
+Infinite.Size = UDim2.new(0.9, 39, 0.0, 29)
+Infinite.Position = UDim2.new(0.0, 0, 0.0, 656)
+Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
+Infinite.BorderColor3 = Color3.new(0, 0, 0)
+Infinite.BorderSizePixel = 0
+Infinite.Text = "SOON!!!!"
+Infinite.BackgroundTransparency = 0.5
+Infinite.TextColor3 = Color3.new(0, 0, 0)
+Infinite.Font = Enum.Font.Montserrat
+Infinite.Parent = Scr
+Infinite.TextSize = 19
+Infinite.MouseButton1Click:Connect(function()
+
+end)
+
 
 local She = Instance.new("TextButton")
 
