@@ -118,7 +118,7 @@ Scr.Parent = Ui
 Scr.ScrollBarThickness = 0
 Scr.Visible = false
 
-Scr.BackgroundTransparency = 1
+Scr.BackgroundTransparency = 2
 
 local Mrbean = Instance.new("TextButton")
 Mrbean.Size = UDim2.new(0.9, 39, 0.0, 29)
